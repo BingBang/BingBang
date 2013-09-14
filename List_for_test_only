@@ -1,0 +1,10 @@
+	[123, xyz]
+	[123, def, abc]
+	[{person, 'Joe', 'Armstrong'},
+		{person, 'Robert', 'Virding'},
+		{person, 'Mike', 'Williams'}
+	]
+	"abcdefghi"
+		becomes - [97,98,99,100,101,102,103,104,105]
+	""
+		becomes - []
